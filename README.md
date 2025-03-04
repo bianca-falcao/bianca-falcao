@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello, World! 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Bianca, and I'm studying Business Informatics at FATEC to become a great developer!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning and improving my skills in development<br>🎯 Goal: Become a skilled developer and build impactful projects<br>🎲 Fun fact: I enjoy solving coding challenges and exploring new technologies!</p>
 
 ###
 
@@ -35,5 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-
-###
